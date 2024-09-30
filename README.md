@@ -1,6 +1,5 @@
 ## Hello! 👋
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/GeimqsH0TLDt4tScGw" width="480" height="322" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vibes-vibing-vibin-GeimqsH0TLDt4tScGw))
-
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/GeimqsH0TLDt4tScGw"])
 <!--
 **lenawuu/lenawuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
