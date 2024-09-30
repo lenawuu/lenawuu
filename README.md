@@ -1,5 +1,5 @@
 ## Hello! 👋
-![Alt Text]([https://giphy.com/embed/rrasLFSTyi4Th1e8Xo])
+
 <!--
 **lenawuu/lenawuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
