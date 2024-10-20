@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenawuu" alt="lenawuu" /></a> </p>
 
-- 🌱 I’m currently learning **typescript and rust**
+- 🌱 I’m currently learning **typescript and rust🦀**
 
 - 💬 Ask me about **react, vue, c++, node, js**
 
